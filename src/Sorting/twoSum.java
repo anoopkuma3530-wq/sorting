@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class twoSum {
     public static void main(String[] args) {
-        int[] arr = {7, 0, 4, 3, 2, 8, 10};
+        int[] arr = {7, 1, 2, 3, 5, 8, 10};
         int target = 9;
 
 
